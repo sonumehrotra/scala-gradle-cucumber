@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Scenario: Multiply two positive numbers" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-07-25T19:15:37" hostname="pushpendu-Lenovo-G50-80" time="0.001">
+  <properties/>
+  <testcase name="Given we have two numbers 5 and 6" classname="Scenario: Multiply two positive numbers" time="0.0"/>
+  <testcase name="When user performs multiplication" classname="Scenario: Multiply two positive numbers" time="0.0"/>
+  <testcase name="Then the result should be 30" classname="Scenario: Multiply two positive numbers" time="0.0"/>
+  <testcase name="classMethod" classname="Scenario: Multiply two positive numbers" time="0.124"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
